@@ -36,4 +36,23 @@ To aid interrogation and visualisation of the data we have create an Multi-Dimen
 
 https://mdv.molbiol.ox.ac.uk/projects/mdv_project/7536
 
+The display presents an interactive single-cell transcriptomic atlas of synovial tissue from children with JIA, constructed using single-cell RNA sequencing of ultrasound-guided biopsies from inflamed joints. The visualisation offers an in-depth exploration of the cellular heterogeneity within the synovial membrane, revealing key immune and stromal populations involved in disease pathogenesis.
+
+## Key Visual Features
+
+- **UMAPs (Top panels):**  
+  Global and compartment-specific UMAP embeddings show the transcriptional diversity of all synovial cell types, and separate analyses of B cells, myeloid cells, stromal cells, and T cells.
+
+- **Bar Charts (Bottom-left):**  
+  Cell type distributions across compartments (Tissue, Blood, Synovial Fluid).
+
+- **Sankey Diagrams (Middle-left):**  
+  Relationships between global clusters and specific sub-clusters.
+
+- **Pie Chart (Center):**  
+  Cell cycle phase distribution across the dataset.
+
+- **Subcluster Abundance (Bottom-right):**  
+  Quantification of sub-clusters, revealing prominent pathogenic populations such as SPP1+ macrophages and fibrin-associated myeloid cells.
+
 
